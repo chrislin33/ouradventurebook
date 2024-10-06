@@ -1,0 +1,21 @@
+@media only screen and (device-width: 1280px),
+only screen and (max-width:1280px) {
+.css-element {
+yourcsscode:;
+}
+   }
+body {
+	font-family: "Open Sans"; /* Imported from Google fonts, needs a corresponding "link" tag in the HTML*/
+	background-color: #B3EBF2; /* A HEX value that represents a purple color */
+	color: white; /* Seems unintuitive, but this stands for text-color! */
+	/*padding-left: 80px;*/
+}
+#lumi{
+	display: block;
+	margin-left: auto;
+	width: 20%;
+	height: 20%;
+	margin-right: auto;
+	/* float: left; Allows text to be to the right of the image */
+	/* margin-right: 20px; Gives breathing room between image and the text */
+}
